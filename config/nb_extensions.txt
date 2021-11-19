@@ -1,0 +1,11 @@
+STEP 1: Open cmd prompt and run the following commands
+ 1) pip install jupyter_contrib_nbextensions
+ 2) pip install jupyter_nbextensions_configurator
+ 3) jupyter contrib nbextension install --user 
+ 4) jupyter nbextensions_configurator enable --user
+
+STEP 3: Open jupyter notebook
+ - click on nbextensions tab
+ - unckeck disable configuration for nbextensions without explicit compatibility
+ - put a check on Hinterland
+step 3: Open new python file and check autocomplete feature

@@ -1,0 +1,10 @@
+Fonte: https://stackoverflow.com/questions/45390326/how-to-get-autocomplete-in-jupyter-notebook-without-using-tab/47859364
+
+Usaremos o Hinterland
+Comandos para executar no Prompt:
+pip install jupyter_contrib_nbextensions
+
+Em seguida:
+jupyter contrib nbextension install –user
+
+Agora, abra o Jupyter e na aba Nbextension ative o Hinterland
