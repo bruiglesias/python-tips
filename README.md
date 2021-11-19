@@ -22,6 +22,11 @@ $ pip3 install pandas
 </p>
 
 <p>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/usando_funcoes_lambdas.ipynb">Funções lambdas</a>
+</p>
+
+
+<p>
   <a href="https://github.com/bruiglesias/python-tips/blob/master/consultando_API_de_CEP.ipynb">Consultando CEP</a>
 </p>
 
