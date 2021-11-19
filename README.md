@@ -13,6 +13,7 @@ $ pip3 install joblib
 $ pip3 install numpy
 $ pip3 install pandas
 
+
 ```
 
 ## Sumário
@@ -47,7 +48,6 @@ $ pip3 install pandas
   <a href="https://github.com/bruiglesias/python-tips/blob/master/trabalhando_com_datetime.ipynb">Formatações de Hora e Data (Datetime)</a>
 </p>
 
-
 <p>
   <a href="https://github.com/bruiglesias/python-tips/blob/master/paralelismo_com_parallel.ipynb">Paralelização de tarefas</a>
 </p>
@@ -56,4 +56,12 @@ $ pip3 install pandas
   <a href="https://github.com/bruiglesias/python-tips/blob/master/requests_get_post_patch_delete.ipynb">Biblioteca requests (GET, POST, PATCH, DELETE)</a>
 </p>
 
+<p>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/convertendo_voz_para_texto.ipynb">Convertendo voz para texto</a>
+</p>
+
+
+<p>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/convertendo_voz_para_texto.ipynb">Convertendo texto para voz</a>
+</p>
 
