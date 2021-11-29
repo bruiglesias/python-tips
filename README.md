@@ -65,3 +65,13 @@ $ pip3 install pandas
   <a href="https://github.com/bruiglesias/python-tips/blob/master/convertendo_voz_para_texto.ipynb">Convertendo texto para voz</a>
 </p>
 
+
+<p>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/dicionarios_python.ipynb">Dicionarios Python</a>
+</p>
+
+<p>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/pegando_cotacao_de_acoes.ipynb">Cotação de ações</a>
+</p>
+
+
