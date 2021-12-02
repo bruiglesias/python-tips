@@ -14,6 +14,9 @@ $ pip3 install numpy
 $ pip3 install pandas
 $ pip3 install pyModbusTCP
 $ pip3 install pymodbus
+$ pip3 install python-barcode 
+$ pip3 install pillow
+$ pip3 install qrcode
 
 
 ```
@@ -80,7 +83,9 @@ $ pip3 install pymodbus
   <a href="https://github.com/bruiglesias/python-tips/blob/master/jupyter_notebooks/classes_python.ipynb">Classes em Python</a>
 </p>
 
-
+<p>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/jupyter_notebooks/codigo_barra_e_qrcode.ipynb">Gerando Código de barras e QRcode </a>
+</p>
 
 ## Sumário de aplicações
 
