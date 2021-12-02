@@ -15,6 +15,7 @@ class Servidor():
         self._host = host
         self._port = port
         self._tcp = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        self._bufferSize = 1024
 
     def _service(self, con, client):
         """
@@ -27,7 +28,7 @@ class Servidor():
         
         while True:
             try:
-                msg = con.recv(1024)
+                msg = con.recv(self._bufferSize)
                 msg_s = str(msg.decode('ascii')) # ex: 15+10
                 op = ""
 

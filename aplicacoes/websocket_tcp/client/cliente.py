@@ -17,6 +17,7 @@ class Cliente():
         self.__server_ip = server_ip
         self.__port = port
         self.__tcp = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        self._bufferSize = 1024
 
     def __method(self):
 
@@ -35,7 +36,7 @@ class Cliente():
                     break
                 else:
                     self.__tcp.send(bytes(msg, 'ascii'))
-                    resp = self.__tcp.recv(1024)
+                    resp = self.__tcp.recv(self._bufferSize)
                     print(" = ", resp.decode('ascii'))
 
             

@@ -12,6 +12,8 @@ $ pip3 install openpyxl
 $ pip3 install joblib
 $ pip3 install numpy
 $ pip3 install pandas
+$ pip3 install pyModbusTCP
+$ pip3 install pymodbus
 
 
 ```
@@ -74,16 +76,30 @@ $ pip3 install pandas
   <a href="https://github.com/bruiglesias/python-tips/blob/master/jupyter_notebooks/pegando_cotacao_de_acoes.ipynb">Cotação de ações</a>
 </p>
 
+<p>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/jupyter_notebooks/classes_python.ipynb">Classes em Python</a>
+</p>
+
+
 
 ## Sumário de aplicações
 
 <p>
-  <a href="https://github.com/bruiglesias/python-tips/blob/master/aplicacoes/websocket/">Cliente e servidor Websocket</a>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/aplicacoes/websocket_tcp/">Cliente e servidor Websocket TCP</a>
 </p>
 
 <p>
-  <a href="https://github.com/bruiglesias/python-tips/blob/master/aplicacoes/websocket_multithread/">Cliente e servidor Websocket - Multithread</a>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/aplicacoes/websocket_tcp_multithread/">Cliente e servidor Websocket TCP - Multithread</a>
 </p>
+
+<p>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/aplicacoes/websocket_udp/">Cliente e servidor Websocket UDP</a>
+</p>
+
+<p>
+  <a href="https://github.com/bruiglesias/python-tips/blob/master/aplicacoes/websocket_udp_multithread/">Cliente e servidor Websocket UDP - Multithread</a>
+</p>
+
 
 <p>
   <a href="https://github.com/bruiglesias/python-tips/blob/master/aplicacoes/modbus/">Cliente e servidor Modbus</a>
