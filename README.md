@@ -17,6 +17,7 @@ $ pip3 install pymodbus
 $ pip3 install python-barcode 
 $ pip3 install pillow
 $ pip3 install qrcode
+$ pip3 install Django==3.2.9
 
 
 ```
